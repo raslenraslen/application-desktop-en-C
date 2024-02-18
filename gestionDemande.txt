@@ -1,0 +1,5 @@
+2358 etab2 A- non 1 5 4 2023 encours 
+2358998 etab2 B- non 1 1 1 2023 encours 
+558 etab2 A+ non 5 1 1 2023 encours 
+2235 etab4 O- non 4 1 1 2023 encours 
+32 etab3 O+ non 1 1 1 2023 encours 
